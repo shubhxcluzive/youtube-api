@@ -133,7 +133,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-GOOGLE_API_KEYS = ['key-1','key-2']
+GOOGLE_API_KEYS = ['key-1','key-2'] #update key from google developer console in order to run
 
 REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
